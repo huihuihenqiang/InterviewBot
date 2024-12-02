@@ -34,10 +34,7 @@
    首先，克隆项目到本地计算机：
    ```bash
    git clone https://github.com/huihuihenqiang/InterviewBot.git
-2.**安装依赖**： 进入项目目录并安装所需的依赖包。建议使用 venv 或 conda 创建虚拟环境，然后执行以下命令安装依赖：
-```bash
-   pip install -r requirements.txt
-```
+2.**安装依赖**： 进入项目目录并安装所需的依赖包。建议使用 venv 或 conda 创建虚拟环境。参考
 
 3.**配置 API 密钥**：
 申请并配置 OpenAI 的 API 密钥，用于与大模型进行对话。
@@ -146,10 +143,7 @@ The tool has the following features:
    ```
 
 2. **Install dependencies**:  
-   Navigate to the project directory and install the required dependencies. It is recommended to use `venv` or `conda` to create a virtual environment, then run the following command:
-   ```bash
-   pip install -r requirements.txt
-   ```
+   Navigate to the project directory and install the required dependencies. It is recommended to use `venv` or `conda` to create a virtual environment。
 
 3. **Configure API Keys**:  
    Apply for and configure your OpenAI API key for interacting with the model.  
