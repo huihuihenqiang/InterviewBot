@@ -1,12 +1,12 @@
 {
-    "API_URL": "https://www.dmxapi.com/v1",
+    "API_URL": "",
     "MODEL_NAME": "gpt-4-turbo",
-    "OPENAI_API_KEY": "sk-ELikK2C5LvTaBmbYsfF08uEvqcoXRmHugWXrDqaNBRjySjaR",
+    "OPENAI_API_KEY": "",
 
 
-    "API_KEY": "gnwo53rkC06JdY4ZbGjwV4fN",
-    "SECRET_KEY": "NNgDfRArptSIWha1RPZK8AQOLzWDkyiG",
-    "CUID": "4IGm0Cax0Scz0f3xxefWDisrQVLpLhyp",
+    "API_KEY": "",
+    "SECRET_KEY": "",
+    "CUID": "",
 
      "tesseract_path": "D:\\ocr\\tesseract.exe"
 
