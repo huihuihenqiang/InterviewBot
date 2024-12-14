@@ -1,13 +1,13 @@
 {
-    "API_URL": "",
-    "MODEL_NAME": "gpt-4-turbo",
-    "OPENAI_API_KEY": "",
+    "API_URL": "这里是你的大模型的api的链接，推荐使用cdk,通义千问目前比较好申请，还免费。可以上官网看看怎么调用？",
+    "MODEL_NAME": "gpt-4-turbo这里是你大模型的名称",
+    "OPENAI_API_KEY": "这里是你的密匙",
 
 
-    "API_KEY": "",
-    "SECRET_KEY": "",
-    "CUID": "",
+    "API_KEY": "这里是你语音识别的api的链接，我用的是百度云的语音识别，使用的版本是只能识别普通话",
+    "SECRET_KEY": "这里是你的密匙",
+    "CUID": "这是一个参数，百度云官网有说明",
 
-     "tesseract_path": "D:\\ocr\\tesseract.exe"
+     "tesseract_path": "D:\\ocr\\tesseract.exe"这是你ocr软件解压后位置
 
 }
