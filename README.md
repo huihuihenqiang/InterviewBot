@@ -1,5 +1,5 @@
 # InterviewBot 🚀
-[![Python 3.8+](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3109/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-3109/)
 
 这是一个基于 PyQt 构建的大模型面试辅助工具,透明界面不用左顾右盼，专注于面试。旨在为面试提供智能支持，提升面试体验。此项目旨在模拟面试场景，训练面试技巧和能力。
 
